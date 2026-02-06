@@ -95,14 +95,15 @@ This research was funded by the eLasmobranc project, which is developed with the
 
 | Name | Role | Contact | Department |
 |------|------|---------|-----------|
-| Ismael Beviá Ballesteros | Author | ismael.bevias@ua.es | Computer Technology |
-| Nieves Aranda Garrido | Co-author | – | Marine Sciences |
-| Irene Antón Linares | Co-author | – | Marine Sciences |
-| Isabel Abel Abellán | Co-author | – | Marine Sciences |
-| Marcelo Saval Calvo | Co-author | – | Computer Technology |
-| Jorge Azorín López | PI | jazorin@ua.es | Computer Technology |
-| Andrés Fuster Guilló | PI | fuster@ua.es | Computer Technology |
-| Francisca Giménez-Casalduero | PI | – | Marine Sciences |
+| Ismael Beviá Ballesteros | Data manager | ismael.bevias@ua.es | Computer Technology |
+| Nieves Aranda Garrido | Data collector | – | Marine Research Center |
+| Mario Jerez Tallón | Researcher | – | Marine Research Center |
+| Isabel Abel Abellan | Data curator | – | Marine Research Center |
+| Irene Antón Linares | Researcher | – | Marine Research Center |
+| Marcelo Saval Calvo | Supervisor | – | Computer Technology |
+| Jorge Azorín López | Supervisor | - | Computer Technology |
+| Andrés Fuster Guilló | Project leader | fuster@ua.es | Computer Technology |
+| Francisca Giménez-Casalduero | Project leader | – | Marine Research Center |
 
 
 
