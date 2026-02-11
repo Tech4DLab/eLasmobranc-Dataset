@@ -1,5 +1,11 @@
 # 🦈 eLasmobranc Dataset – Sharks & Rays (v1.0)
 
+<p>
+  <a href="https://zenodo.org/records/18549737">
+    <img src="https://img.shields.io/badge/Zenodo - eLasmobrank Dataset-007BFF?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ## 👀 Overview
 
 The **eLasmobranc Dataset** is an image collection designed to support computer vision research and scientific analysis focused on the identification of elasmobranch species (sharks and rays).
@@ -54,7 +60,21 @@ The dataset is intended for tasks such as species classification, zero-shot and 
 
 Each species folder contains:
 - Images identified by a unique ID encoding species–individual–image (e.g., GG_001_01)
-- A species-specific CSV file with metadata for each image
+- A species-specific CSV file with metadata for each imag
+
+<details>
+<summary><strong>📸 View image samples</strong></summary>
+<p align="center">
+  <img src="Images/Example01-GG_068_02.jpg" width="305">
+  <img src="Images/Example02-LN_046_01.jpg" width="400">
+</p>
+<p align="center">
+  <img src="Images/Example03-MM_069_01.jpg" width="300">
+  <img src="Images/Example04-MM_063_01.jpg" width="300">
+  <img src="Images/Example05-SC_447_01.jpg" width="400"
+</p>
+
+</details>
 
 ## 🔎 Dataset Summary
 
