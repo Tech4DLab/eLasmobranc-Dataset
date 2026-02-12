@@ -107,10 +107,6 @@ The eLasmobranc Dataset is distributed under a CC-BY-NC license. Images from ext
 
 Copyright (C) 2026. e-Lasmobranc project: New technologies and advances in the knowledge of elasmobranchs from the Spanish east, University of Alicante 
 
-## 🤝 Acknowledgments
-
-This research was funded by the eLasmobranc project, which is developed with the collaboration of the Biodiversity Foundation of the Ministry for Ecological Transition and the Demographic Challenge, through the Pleamar Programme, and is co-financed by the European Union through the European Maritime, Fisheries and Aquaculture Fund.
-
 ## 📬 Contact
 
 | Name | Role | Contact | Department |
@@ -125,5 +121,8 @@ This research was funded by the eLasmobranc project, which is developed with the
 | Andrés Fuster Guilló | Project leader | fuster@ua.es | Computer Technology |
 | Francisca Giménez-Casalduero | Project leader | – | Marine Research Center |
 
+## 🤝 Acknowledgments
+
+This research was funded by the eLasmobranc project, which is developed with the collaboration of the Biodiversity Foundation of the Ministry for Ecological Transition and the Demographic Challenge, through the Pleamar Programme, and is co-financed by the European Union through the European Maritime, Fisheries and Aquaculture Fund.
 
 
