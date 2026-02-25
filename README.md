@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://zenodo.org/records/18549737">
-    <img src="https://img.shields.io/badge/Zenodo - eLasmobrank Dataset-007BFF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zenodo - eLasmobranc Dataset-007BFF?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -13,13 +13,13 @@ The **eLasmobranc Dataset** is an image collection designed to support computer 
 The dataset was developed within the framework of the e-Lasmobranc project at the University of Alicante and is conceived as an open, continuously evolving resource. It integrates images from public Creative Commons sources with original material collected through collaborations and fieldwork.
 
 **Version 1.0** includes **1,117 images** corresponding to **807 distinct individuals**, belonging to **seven target elasmobranch species**:
-- Galeorhinus galeus
-- Galeus melastomus
-- Leucoraja naevus
-- Mustelus mustelus
-- Oxynotus centrina
-- Scyliorhinus canicula
-- Torpedo marmorata
+- *Galeorhinus galeus*
+- *Galeus melastomus*
+- *Leucoraja naevus*
+- *Mustelus mustelus*
+- *Oxynotus centrina*
+- *Scyliorhinus canicula*
+- *Torpedo marmorata*
 
 Most images were captured out of water to minimize visual distortions and ensure clear visibility of morphological traits. All samples were filtered using basic quality criteria and subsequently **validated by experts** to guarantee correct species identification and sufficient morphological information.
 
