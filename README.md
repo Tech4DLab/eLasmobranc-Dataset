@@ -97,9 +97,11 @@ The following table summarizes the number of images per species in the eLasmobra
 | *Scyliorhinus canicula* | 575 |
 | *Torpedo marmorata*     | 99 |
 
-## 🔗 Citation
+## 🔗 How to cite
 
-If you use this dataset in your research, please cite:
+If you use the eLasmobranc Dataset in your research, please cite it as follows:
+
+Beviá-Ballesteros, I., Jerez-Tallón, M., Aranda-Garrido, N., Abel-Abellán, I., Antón-Linares, I., Azorín-López, J., Saval-Calvo, M., Fuster-Guilló, A., and Giménez-Casalduero, F. (2026). eLasmobranc Dataset: An Image Dataset for Elasmobranch Species Recognition and Biodiversity Monitoring. arXiv preprint arXiv:2603.10724
 
 ## 📝 License
 
